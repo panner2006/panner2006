@@ -24,7 +24,7 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/panner-nallathambi-b973182a5" target="blank">
+<a href="https://linkedin.com/in/pannerselvam-n-b973182a5" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
@@ -44,7 +44,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql,machine learning"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql,machine learning"/>
 </p>
 
 ### Frameworks & Libraries
